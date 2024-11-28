@@ -25,14 +25,7 @@ output:
     3. Fungsi hapus(nama) untuk menghapus data berdasarkan nama
     4. Fungsi ubah(nama) untuk mengubah data berdasarkan nama
  _flowchart_: 
-
-
-
-
-
-
-
-
+![Screenshot 2024-11-28 132211](https://github.com/user-attachments/assets/ead5ba96-170b-4a82-9cc9-fe225800ee83)
 
  _kode program_:
  _input_:
